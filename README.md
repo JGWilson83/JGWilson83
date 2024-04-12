@@ -1,4 +1,4 @@
-![Banner Image](./header-banner-image.png)
+![Banner Image](./JGWilson83.png)
 
 # Hi there, I'm James! 👋
 
