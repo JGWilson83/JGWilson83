@@ -6,6 +6,8 @@
 
 I'm a passionate **Data Scientist** with broad experience across the entire data sciene pipeline, including **Azure, Databricks, Python, Spark, SQL, R**. I enjoy tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.  I love working with data!
 
+<img align="left" width="150" height="150" src="https://github.com/LadyKerr/LadyKerr/blob/main/assets/octokadie.png" alt="kedasha's instagram page @itsthatladydev">
+
 - 🌱 Currently learning: **Azure, Databricks, ADF**
 - 🔭 Working on: **Railway-related data science problems**
 - 🌍 Languages: **Python, R, SQL, Spark**
