@@ -1,6 +1,6 @@
-# Hi there, I'm James! 👋
-
 ![Banner Image](./header-banner-image.png)
+
+# Hi there, I'm James! 👋
 
 ## About Me 🚀
 
